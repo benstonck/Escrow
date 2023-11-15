@@ -281,7 +281,7 @@
 }
 .about-img{
    border-radius: 12px;
-    width: 800px;
+   width: 1000px;
     height: 528px;
 }
 
@@ -327,8 +327,7 @@
 
 }
 .our-color{
-    color: #A90533;
-   
+    color: rgb(15, 15, 136);
 
 }
 .key-back{
@@ -505,35 +504,6 @@
     background-color: #004785;
 }
 
-/* navebar */
-/* ul{
-    display: flex;
-    justify-content: space-between;
-    padding-right: 15px;
-}
-
-
-.header-link{
-    list-style: none;
-    padding-right: 15px;
-    
-    
-}
-.header-link a{
-    color: blue;
-   
-} */
-
-/* li a{
-    color: blue;
-    padding-right: 15px;
-    transition: 2s;
-   text-decoration: none;
-} */
- /* a:hover{
-    color: red;
-    }
-   */
    
    .f-c-a{
     color: white;
@@ -542,12 +512,14 @@
     background-color: #004785;
    }
 
-   /* .blueG
-   {
-   color: blue;
-   } */
+   
    .nav-head-c{
     color:  #004785;
+    transition: 3ms;
+
+   }
+   .nav-head-c:hover{
+    color:rgb(0, 0, 254);
    }
    .border-radius12{
     background-color: #004a96;
@@ -583,4 +555,8 @@
    .enquire-1{
     background-color: red;
    }
+   /* about */
+   /* .abo-img{
+    width: 660px;
+   } */
   
