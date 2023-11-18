@@ -358,26 +358,26 @@
     padding-left: 10px;  
 } */
 .our-bor-1{
-    border: 0.5px solid rgb(188, 176, 176);
+    border: 0.5px solid #004785;
     border-radius: 10px;
     height: 152px;
 
 
 }
 .our-bor-2{
-    border: 0.5px solid rgb(188, 176, 176);
+    border: 0.5px solid  #004785;
     border-radius: 10px;
     
 
 
 }
 .our-bor-3{
-    border: 1px solid rgb(188, 176, 176);
+    border: 1px solid  #004785;
     border-radius: 10px;
 
 }
 .our-bor-4{
-    border: 1px solid rgb(188, 176, 176);
+    border: 1px solid  #004785;
     border-radius: 10px;
     height: 1177px;
 
@@ -414,19 +414,19 @@
     color: black;
 }
 .key-bor-1{
-    border: 1px solid rgb(188, 176, 176) ;
+    border: 1px solid #004785 ;
     padding: 30px;
     height: 288px;
     border-radius: 10px;
 }
 .key-bor-2{
-    border: 1px solid rgb(188, 176, 176) ;
+    border: 1px solid  #004785 ;
     padding: 30px;
     height: 288px;
     border-radius: 10px;
 }
 .key-bor-3{
-    border: 1px solid rgb(188, 176, 176) ;
+    border: 1px solid  #004785 ;
     padding: 30px;
     border-radius: 10px;
 }
@@ -537,9 +537,7 @@
    .ab-c-1{
     color: #004785;
    }
-   .about-3{
-    background-color: white;
-   }
+  
 
    /* footer */
    .footer-tw{
@@ -579,9 +577,7 @@
    }
 
    /* service */
-   .ser-c-1{
-    background-color: white;
-   }
+   
    .border-radius11{
     border-radius: 23px;
     /* background-color: lightblue; */
@@ -589,6 +585,7 @@
 }
 .f-c-a-1{
     color: #004785;
+  
 }
 .serv-bor-11{
     border: 1px solid black;
@@ -678,3 +675,70 @@
 .black-c-c:hover{
     color: red;
 }
+
+/* new */
+/* .red-1{
+    background-color: red;
+   
+} */
+
+.about-3{
+    background-color: white;
+    
+    padding: 0;
+    /* height: 120vh; */
+   
+   
+   }
+   .mar-to-5{
+    /* margin-top: 33px; */
+
+   }
+
+   .ser-c-1{
+    background-color: white;
+    padding: 0;
+   
+    /* margin-top: -50px; */
+   
+    
+   }
+   .Space-clear{
+   /* margin-top: -50px; */
+  
+    
+  
+    
+   
+   }
+   .our-t-s-s{
+    
+    /* height: 130vh; */
+    padding: 30px;
+   }
+   .con-top-s-cover{
+   
+   
+   }
+   .cor-top-sp-cover{
+   
+    margin-top: -35px;
+   }
+   .con-t-cover-2{
+    margin-top: -50px;
+   }
+   .key-top-s-cover{
+   
+    /* height: 120vh; */
+   }
+   .k-t-s-c{
+    margin-top: -50px;
+   }
+
+   /* couer */
+   .text-coeur-r{
+    margin-top: -30px;
+   }
+   .text-coeur-key{
+    margin-top: 15px;
+   }
