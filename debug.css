@@ -277,8 +277,14 @@
 }
 .about-img{
    border-radius: 12px;
-   width: 1000px;
     height: 528px;
+}
+
+.about-img-101{
+    /* display: flex;
+    position: relative;
+   
+    background-color: #A90533; */
 }
 
 /* .scr-collor{
@@ -327,7 +333,8 @@
 
 }
 .our-color{
-    color: rgb(15, 15, 136);
+    
+    color: #004785;
 
 }
 .key-back{
@@ -394,7 +401,7 @@
  .Dblue-benefits-1{
     font-size: 30px;
     color: rgb(15, 15, 136);
-    padding-bottom: 15px;
+   
     padding-top: 18px;
 
 }
@@ -447,7 +454,7 @@
     padding-bottom: 15px;
 }
 .our-sol-p-1{
-    padding-top: 30px;
+    padding-top: 40px;
 }
 
 /* sevices */
@@ -535,7 +542,8 @@
     
    }
    .ab-c-1{
-    color: #004785;
+    
+    color: rgb(15, 15, 136);
    }
   
 
@@ -584,7 +592,9 @@
     
 }
 .f-c-a-1{
-    color: #004785;
+    
+    color: rgb(15, 15, 136);
+   
   
 }
 .serv-bor-11{
@@ -703,36 +713,36 @@
    
     
    }
-   .Space-clear{
-   /* margin-top: -50px; */
-  
-    
-  
-    
-   
+   .Space-clear-1{
+    padding-top: 50px;
+ 
+ 
    }
    .our-t-s-s{
     
-    /* height: 130vh; */
-    padding: 30px;
+    padding: 0;
    }
-   .con-top-s-cover{
-   
-   
+
+   .our-solution-top-p-11{
+    margin-top: 85px;
    }
+   
    .cor-top-sp-cover{
    
-    margin-top: -35px;
+    /* margin-top: -35px;
+    padding: 0; */
    }
    .con-t-cover-2{
     margin-top: -50px;
    }
    .key-top-s-cover{
    
-    /* height: 120vh; */
+   padding: 0;
+   
    }
    .k-t-s-c{
-    margin-top: -50px;
+   margin-top: 50px;
+   
    }
 
    /* couer */
@@ -742,3 +752,101 @@
    .text-coeur-key{
     margin-top: 15px;
    }
+
+   .serv-bor-101{
+    border: 1px solid black;
+    border-radius: 16px;
+    
+    border-color: #004785;
+    padding: 5px;
+}
+.services-new{
+   font-size: 15px;
+   color: #004785;
+}
+
+.red-1{
+   margin-top: 43px;
+}
+/* our product new */
+.product-border-coeur{
+    border: 1px solid black;
+    border-color: #004785;
+    border-radius: 16px;
+    transition: 1s;
+
+
+}
+.product-border-coeur:hover{
+    transform: scale(1.1);
+}
+.product-border-coeur-img{
+    border-radius: 16px;
+}
+.product-border-coeur-font{
+    color: #004785;
+}
+.product-border-coeur-top{
+   
+}
+.color-product-1{
+    background-color: white;
+    border-radius: 1rem;
+    margin-top: 2rem;
+    padding: 1rem;
+
+}
+
+.product-border-coeur-color{
+    
+    color: rgb(15, 15, 136);
+}
+
+.our-product-101{
+    padding: 0;
+    margin-top: 80px;
+    
+}
+
+.cor-top-sp-cover{
+    margin-top: 80px;
+}
+.nav-head-c-1{
+    color:  #004785;
+    background-color: white;
+    border: 1px solid black;
+   
+    border-radius: 16px;
+    
+}
+.p{
+    margin-top: -20px;
+}
+
+.Dblue-benefits-111{
+    font-size: 30px;
+    color: rgb(15, 15, 136);
+   
+   margin-top: 70px;
+
+}
+
+.contact-1{
+    
+}
+
+.ser-c-1-1{
+    background-color: white;
+    padding: 0;
+    border: 1px solid black;
+    margin-bottom: 60px;
+    margin-top: 60px;
+   
+    
+   }
+
+   .serv-bor-11-01{
+   
+    
+  
+}
