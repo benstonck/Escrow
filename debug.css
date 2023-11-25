@@ -831,10 +831,6 @@
 
 }
 
-.contact-1{
-    
-}
-
 .ser-c-1-1{
     background-color: white;
     padding: 0;
@@ -845,12 +841,33 @@
     
    }
 
-   .serv-bor-11-01{
-   
-    
-  
-}
 
 .he-ser-101{
     height: 220px;
+}
+
+.bradius2-1{
+    width: 290px;
+    height: 100px;
+    margin-top: 15px;
+}
+
+.serv-bor-11-101{
+
+}
+.our-strategic-partners{
+    margin-top: 20px;
+}
+
+.our-clients-11-01{
+   
+
+}
+.our-strategic-11-5{
+    padding: 10px;
+}
+.our-strategic-img{
+    width: 140px;
+    height: 100px;
+
 }
