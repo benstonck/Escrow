@@ -864,10 +864,17 @@
 
 }
 .our-strategic-11-5{
-    padding: 10px;
+   margin-top: 10px;
 }
 .our-strategic-img{
     width: 140px;
     height: 100px;
 
+}
+
+.our-hover-08{
+transition: 1s;
+}
+.our-hover-08:hover{
+    transform: scale(1.1);
 }
