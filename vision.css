@@ -1,0 +1,43 @@
+.our-back-g{
+  padding: 1rem;
+
+}
+
+.Dblue-12{
+    
+    color: #58C0BB;
+    font-size: 30px; 
+   
+   }
+  .our-goal{
+    color: #58C0BB;
+    
+    font-size: 30px
+  } 
+  .our-solution-img {
+    /* width: 530px;
+    height: 334px; */
+    border-radius: 100px;
+    
+}
+.our-solution-img-2 {
+    /* width: 530px;
+    height: 334px; */
+    border-radius: 100px;
+}
+.our-sol-p-1{
+margin-top: 20px;
+ 
+ /* height: 363px; */
+ display: flex;
+ align-content: center;
+ justify-content: center;
+ 
+    
+}
+.our-solution-p{
+  color: black;   
+  margin-top: 50px;
+  
+  
+}

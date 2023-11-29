@@ -1,0 +1,28 @@
+.f-c-a-1{
+     margin-top: 5px;
+    color: #58C0BB;
+   
+  
+}
+
+.serv-bor-101{
+    border: 1px solid black;
+    border-radius: 16px;
+    border-color: #004785;
+    padding: 5px;
+    /* background-color: #507D7B; */
+    background: linear-gradient(#507D7B,#58C0BB,#507D7B);
+    transition: 1s;
+}
+.serv-bor-101:hover{
+    transform: scale(1.1);
+}
+.services-new{
+    font-size: 15px;
+    /* color: white; */
+    color: #2b577c;
+ }
+
+ .i-color-service{
+   color: white;
+}
