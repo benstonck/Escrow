@@ -1,21 +1,20 @@
-.bg-info1{
-    background-color: white;
-   
- }
+
  
  
-  body{
+  /* body{
      
       background-color: #004785; 
- } 
+ }  */
   .bg-light-gray{
      /* background-color: rgb(154, 194, 230); */
       background-color: #004785;
  } 
  .logo-navebar{
-     width: 230px;
-     height: 70px;
-   padding-top: 5px;
+    width: 120px;
+    height: 70px;
+   
+    padding-top: 5px;
+   border-radius: 12px;
  }
  .m-1{
     
@@ -306,11 +305,7 @@
  
  
  
- .our-color{
-     
-     color: #004785;
- 
- }
+
  .key-back{
      background-color: white;
      border-radius: 1rem;
@@ -432,9 +427,7 @@
  }
  
  /* welcome */
- .welcome-1{
-     color: white;
- }
+ 
  .w-t-1{
      padding-top: 30px;
  }
@@ -472,11 +465,7 @@
  } 
  
  /* footeer */
- .footer-c{
-     /* background-color:black; */
-     /* background-color: #004785; */
-     background: linear-gradient(#004a96,#000b3b);
- }
+ 
  
     
     .f-c-a{
@@ -540,14 +529,7 @@
      
  }
  
- .serv-bor-11{
-     border: 1px solid black;
-     border-radius: 16px;
-     height: 170px;
-     border-color: #004785;
-     
-   
- }
+ 
  
  /* service */
  
@@ -571,16 +553,7 @@
     /* margin-left: 50px;
     margin-right: 30px; */
  }
- .ro-margin-right{
-     display: flex;
-     justify-content: space-around;
- }
  
- @media screen and (max-width: 767px){
-     .ro-margin-right{ 
-         display: block;
-     }
- }
  
  
  
@@ -624,40 +597,17 @@
     
  } */
  
- .about-3{
-     background-color: white;
-     
-     padding: 0;
-     /* height: 120vh; */
-    
-    
-    }
+ 
     .mar-to-5{
      /* margin-top: 33px; */
  
     }
  
-    .ser-c-1{
-     background-color: white;
-     padding: 0;
+   
     
-     /* margin-top: -50px; */
     
-     
-    }
-    .Space-clear-1{
-     padding-top: 50px;
-  
-  
-    }
-    .our-t-s-s{
-     
-     padding: 0;
-    }
  
-    .our-solution-top-p-11{
-     margin-top: 85px;
-    }
+    
     
     .cor-top-sp-cover{
     
@@ -692,23 +642,9 @@
     margin-top: 43px;
  }
  /* our product new */
- .product-border-coeur{
-     border: 1px solid black;
-     border-color: #004785;
-     border-radius: 16px;
-     transition: 1s;
  
  
- }
- .product-border-coeur:hover{
-     transform: scale(1.1);
- }
- .product-border-coeur-img{
-     border-radius: 16px;
- }
- .product-border-coeur-font{
-     color: #004785;
- }
+
  .product-border-coeur-top{
     
  }
@@ -748,16 +684,7 @@
  
  
  
- .ser-c-1-1{
-     background-color: white;
-     padding: 0;
-     border: 1px solid black;
-     margin-bottom: 60px;
-     margin-top: 60px;
-    
-     
-    }
- 
+
  
  .he-ser-101{
      height: 220px;
@@ -794,4 +721,11 @@
  }
  .our-hover-08:hover{
      transform: scale(1.1);
+ }
+ .foot-color-102{
+    color: white;
+    font-size: 16px;
+ }
+ .foot-color-103{
+    font-size: 14px;
  }

@@ -1,15 +1,23 @@
 /* navbar */
-
+.bg-info1{
+    /* background-color: #B6161A; */
+   background-color: white;
+ }
 .nav-head-c{
-    font-size: large;
+    font-size: 15px;
     /* color:  #004785; */
-    color: #668080;
+   color: black;
     transition: 3ms;
 
    }
    .nav-head-c:hover{
-    color: #58C0BB;
+    color: blue;
     /* color:rgb(0, 0, 254); */
+   }
+
+   /* baner-img */
+   .baner-101{
+    
    }
 
 /* welcome page */
@@ -18,10 +26,13 @@
     /* background-color: #004a96; */
     /* background: linear-gradient(#004a96,#000b3b); */
     /* background: linear-gradient(#58C0BB,#518C8A); */
-    background: linear-gradient(#58C0BB,#507D7B);
+    /* background: linear-gradient(#58C0BB,#507D7B); */
    
 
     border-radius: 0px 0px 0px 0px;
+   }
+   .red-sky-welcome{
+    color: black;
    }
 /* enquire now page */
    .enquire{
@@ -30,14 +41,12 @@
    }
 
 
-/* ABOUT */
-.about-1{
-    color: #58C0BB;
-}
-.about-img-11{
-    border-radius: 20px;
-    border: 2px solid #58C0BB;
+
+
+/* fotter */
+.footer-c{
     
+    /* background: linear-gradient(#000000,#F51016,#000000); */
+    /* background:linear-gradient(#D9D9D9,#0762E9,#D9D9D9); */
+   background-color: black;
 }
-
-
