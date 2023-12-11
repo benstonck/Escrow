@@ -1,0 +1,32 @@
+
+.who-we-r-border{
+    background-color: white;
+    border-color: #58C0BB;
+    border-radius: 16px;
+    box-shadow: 0 0 10px #58C0BB;
+}
+.about-img-111{
+   
+    margin-top: 30px;
+   
+    border: 2px solid #58C0BB;
+   
+    clip-path: circle(); 
+   transition: 1s;
+}
+.about-img-111:hover{
+    transform: scale(1.1);
+    
+}
+.about-img-113{
+   
+  
+    border-radius: 20px;
+    border: 2px solid #58C0BB;
+    box-shadow: 3px 3px 3px 3px #96BDE0; 
+   
+   transition: 1s;
+}
+.about-img-111:hover{
+    transform: scale(1.1);
+}

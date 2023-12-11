@@ -1,17 +1,16 @@
 /* navbar */
-.bg-info1{
-    /* background-color: #B6161A; */
-   background-color: white;
- }
+
 .nav-head-c{
-    font-size: 15px;
+    /* font-size: large; */
     /* color:  #004785; */
-   color: black;
+    color: #668080;
     transition: 3ms;
+    font-family: calibri;
+    font-size: 20px;
 
    }
    .nav-head-c:hover{
-    color: blue;
+    color: #58C0BB;
     /* color:rgb(0, 0, 254); */
    }
 
@@ -26,13 +25,10 @@
     /* background-color: #004a96; */
     /* background: linear-gradient(#004a96,#000b3b); */
     /* background: linear-gradient(#58C0BB,#518C8A); */
-    /* background: linear-gradient(#58C0BB,#507D7B); */
+    background: linear-gradient(#58C0BB,#507D7B);
    
 
     border-radius: 0px 0px 0px 0px;
-   }
-   .red-sky-welcome{
-    color: black;
    }
 /* enquire now page */
    .enquire{
@@ -40,13 +36,129 @@
 
    }
 
+   .calibri{
+    font-family: calibri;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-size: 20px;
+   
+}
 
 
+/* ABOUT */
+.about-1{
+    color: #58C0BB;
+}
+.about-img-11{
+    border-radius: 20px;
+    border: 2px solid #58C0BB;
+    box-shadow: 3px 3px 3px 3px #96BDE0;  
+   transition: 1s;
+}
+.about-img-11:hover{
+    transform: scale(1.1);
+}
 
-/* fotter */
-.footer-c{
+.escrow-about{
+    font-size: 20px;
+    color: #2b577c;
+    font-weight: 600;
+}
+.about-top-img-1{
+
+}
+
+.about-img-12{
+    border-radius: 20px;
+    border: 2px solid #58C0BB;
+    box-shadow: 3px 3px 3px 3px #96BDE0;   
+    transition: 1s;
+}
+.about-img-12:hover{
+    transform: scaleY(1.1);
+}
+
+/* list item 11-12 */
+
+.key-bor-1{
+    border: 1px solid #004785 ;
+    padding: 10px;
+   
+    box-shadow: 3px 3px 3px 3px #96BDE0; 
+    border-radius: 10px;
+}
+.key-bor-2{
+    border: 1px solid  #004785 ;
+    padding: 18px;
+    box-shadow: 3px 3px 3px 3px #96BDE0; 
     
-    /* background: linear-gradient(#000000,#F51016,#000000); */
-    /* background:linear-gradient(#D9D9D9,#0762E9,#D9D9D9); */
-   background-color: black;
+    border-radius: 10px;
+}
+.key-h-color-1{
+    color: #2b577c;
+   
+    font-family: calibri;
+    font-size: 20px;
+    padding-top: 5px;
+
+}
+.key-h-color{
+    color: #2b577c;
+    font-family: calibri;
+    font-size: 20px;
+   
+
+}
+.list-item-escrow-new{
+    font-family: calibri;
+    font-size: 16px;
+
+}
+.list-item-escrow-new-1{
+    font-family: calibri;
+    font-size: 16px;
+    margin-bottom: 60px;
+}
+.about-text-es-1{
+    color: black;
+    font-size: 16px; 
+    font-family: calibri;   
+}
+.about-text-es-2{
+    color: black;
+    font-size: 16px; 
+    font-family: calibri;   
+}
+.about-text-es-3{
+    color: black;
+    font-size: 16px; 
+    font-family: calibri; 
+}
+.escrow-about-2{
+    font-size: 20px;
+    color: #2b577c;
+    font-weight: 600;
+}
+.key-h-color-2{
+    color: #2b577c;
+   
+    font-family: calibri;
+    font-size: 20px;
+    padding-top: 5px;
+
+}
+.about-text-es-hhhhh{
+    color: black;
+    font-size: 16px; 
+    font-family: calibri; 
+}
+.about-img-1221{
+    margin-top: 100px;
+    border-radius: 20px;
+    border: 2px solid #58C0BB;
+    box-shadow: 3px 3px 3px 3px #96BDE0;  
+   transition: 1s;
+}
+.about-img-11:hover{
+    transform: scale(1.1);
 }
