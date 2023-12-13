@@ -22,7 +22,7 @@
 }
 .contact-heading-tag-1{
     /* font-size:large; */
-    color: #405c73;
+    color: #44c1b8;
     /* color: #004785; */
 }
 .contact-heading-tag-2{
@@ -31,7 +31,8 @@
 }
 .copy-right{
     
-    background: linear-gradient(#58C0BB,#507D7B);
+    /* background: linear-gradient(#58C0BB,#507D7B); */
+    background-color: #44c1b8;
    
 }
 .map-1{
@@ -44,4 +45,18 @@
 .map-3{
     min-width: 1170px;
    
+}
+.contact-new-font{
+    font-family: calibri;
+    font-size: 16px;
+    color: black;
+}
+.contact-strong-color{
+    color: #0b8cf5;
+}
+.escrow-contact-para{
+    font-family: barlow;
+}
+.tel{
+    color: black;
 }

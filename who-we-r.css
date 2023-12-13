@@ -3,15 +3,23 @@
     background-color: white;
     border-color: #58C0BB;
     border-radius: 16px;
-    box-shadow: 0 0 10px #58C0BB;
+    box-shadow: 0 0 5px  #58C0BB;
+}
+.images-outer-color{
+    padding-left: 25px;
+    
+   
+  
 }
 .about-img-111{
-   
+    
+   width: 400px;
+   height: 400px;
+   border-radius: 50%;
+   border: 10px solid #44c1b8;
+  
     margin-top: 30px;
-   
-    border: 2px solid #58C0BB;
-   
-    clip-path: circle(); 
+    /* clip-path: circle();  */
    transition: 1s;
 }
 .about-img-111:hover{
@@ -20,13 +28,27 @@
 }
 .about-img-113{
    
-  
+    width: 1170px;
     border-radius: 20px;
-    border: 2px solid #58C0BB;
-    box-shadow: 3px 3px 3px 3px #96BDE0; 
+   
    
    transition: 1s;
 }
-.about-img-111:hover{
-    transform: scale(1.1);
+.about-img-113{
+   
+  
+    border-radius: 20px;
+    border: 2px solid #58C0BB;
+    box-shadow: 3px    #96BDE0; 
+   
+   transition: 1s;
+}
+
+.color-escrow{
+    
+    color: #0b8cf5;
+  }
+ 
+.about-img-113:hover{
+    transform: scaleY(1.1);
 }

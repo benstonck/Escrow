@@ -31,6 +31,7 @@ margin-top: 20px;
  align-content: center;
  justify-content: center;
  
+ 
     
 }
 .our-solution-p{
@@ -103,16 +104,19 @@ margin-top: 20px;
  }
  .product-border-coeur-img{
   border-radius: 16px;
+  width: 1170px;
 }
-.product-border-coeur{
+.product-border-coeur-0{
   border: 1px solid black;
-  border-color: #004785;
+ 
+  font-family: barlow;
   border-radius: 16px;
+ 
   transition: 1s;
 
 
 }
-.product-border-coeur:hover{
+.product-border-coeur-0:hover{
   transform: scale(1.1);
 }
 .product-border-coeur-font{
@@ -129,8 +133,8 @@ margin-top: 20px;
 }
 .our-vision-escrow-new{
   font-size: 16px;
-  font-family: calibri;
+  font-family: barlow;
 }
 .our-goal-new{
-  color: #58C0BB;
+  color: #0b8cf5;
 }

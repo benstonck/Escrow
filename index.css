@@ -5,8 +5,9 @@
     /* color:  #004785; */
     color: #668080;
     transition: 3ms;
-    font-family: calibri;
-    font-size: 20px;
+    font-family: barlow;
+    font-size: 18px;
+   
 
    }
    .nav-head-c:hover{
@@ -25,34 +26,38 @@
     /* background-color: #004a96; */
     /* background: linear-gradient(#004a96,#000b3b); */
     /* background: linear-gradient(#58C0BB,#518C8A); */
-    background: linear-gradient(#58C0BB,#507D7B);
+    /* background: linear-gradient(#58C0BB,#507D7B); */
+    background-color: #44c1b8;
    
 
     border-radius: 0px 0px 0px 0px;
    }
 /* enquire now page */
    .enquire{
-    background: linear-gradient(#58C0BB,#507D7B);
+    /* background: linear-gradient(#58C0BB,#507D7B); */
+    background-color:  #44c1b8;
 
    }
 
    .calibri{
-    font-family: calibri;
-    font-size: 16px;
+    font-family: barlow;
+    font-size: 24px;
     text-transform: uppercase;
-    font-size: 20px;
+   
    
 }
 
 
 /* ABOUT */
+
 .about-1{
-    color: #58C0BB;
+    /* color: #58C0BB; */
+    color: #44C1B8;
 }
 .about-img-11{
     border-radius: 20px;
     border: 2px solid #58C0BB;
-    box-shadow: 3px 3px 3px 3px #96BDE0;  
+    /* box-shadow: 3px 3px 3px 3px #96BDE0;   */
    transition: 1s;
 }
 .about-img-11:hover{
@@ -61,17 +66,20 @@
 
 .escrow-about{
     font-size: 20px;
-    color: #2b577c;
+    /* color: #2b577c; */
+    color: #44C1B8;
     font-weight: 600;
+    text-transform: uppercase;
 }
 .about-top-img-1{
 
 }
 
 .about-img-12{
+    width: 1170px;
     border-radius: 20px;
     border: 2px solid #58C0BB;
-    box-shadow: 3px 3px 3px 3px #96BDE0;   
+    /* box-shadow: 3px 3px 3px 3px #96BDE0;    */
     transition: 1s;
 }
 .about-img-12:hover{
@@ -82,67 +90,69 @@
 
 .key-bor-1{
     border: 1px solid #004785 ;
-    padding: 10px;
+    padding: 9px;
    
-    box-shadow: 3px 3px 3px 3px #96BDE0; 
+    box-shadow: 3px 3px  #96BDE0; 
     border-radius: 10px;
 }
 .key-bor-2{
     border: 1px solid  #004785 ;
-    padding: 18px;
-    box-shadow: 3px 3px 3px 3px #96BDE0; 
+    padding: 19px;
+    box-shadow: 3px 3px  #96BDE0; 
     
     border-radius: 10px;
 }
 .key-h-color-1{
-    color: #2b577c;
+    color: #44c1b8;
    
-    font-family: calibri;
+    font-family: barlow;
     font-size: 20px;
     padding-top: 5px;
+    text-transform: uppercase;
 
 }
 .key-h-color{
-    color: #2b577c;
-    font-family: calibri;
+    color: #44c1b8;
+    font-family: barlow;
     font-size: 20px;
-   
+    text-transform: uppercase;
 
 }
 .list-item-escrow-new{
-    font-family: calibri;
+    font-family: barlow;
     font-size: 16px;
 
 }
 .list-item-escrow-new-1{
-    font-family: calibri;
+    font-family: barlow;
     font-size: 16px;
     margin-bottom: 60px;
 }
 .about-text-es-1{
     color: black;
     font-size: 16px; 
-    font-family: calibri;   
+    font-family: barlow;   
 }
 .about-text-es-2{
     color: black;
     font-size: 16px; 
-    font-family: calibri;   
+    font-family: barlow;   
 }
 .about-text-es-3{
     color: black;
     font-size: 16px; 
-    font-family: calibri; 
+    font-family: barlow; 
 }
 .escrow-about-2{
     font-size: 20px;
-    color: #2b577c;
+    /* color: #2b577c; */
+    color: #44C1B8;
     font-weight: 600;
 }
 .key-h-color-2{
-    color: #2b577c;
+    color: #44c1b8;
    
-    font-family: calibri;
+    font-family: barlow;
     font-size: 20px;
     padding-top: 5px;
 
@@ -150,15 +160,51 @@
 .about-text-es-hhhhh{
     color: black;
     font-size: 16px; 
-    font-family: calibri; 
+    font-family: barlow; 
 }
 .about-img-1221{
-    margin-top: 100px;
+    margin-top: 20px;
+    height: 624px;
     border-radius: 20px;
     border: 2px solid #58C0BB;
-    box-shadow: 3px 3px 3px 3px #96BDE0;  
+    box-shadow: 3px 3px  #96BDE0;  
    transition: 1s;
+}
+.about-img-1221:hover{
+    transform: scale(1.1);
 }
 .about-img-11:hover{
     transform: scale(1.1);
+}
+/* escrow transform */
+.escrow-transform{
+    /* color: #405c73; */
+    color: #44C1B8;
+    font-size: 20px;
+    font-family: barlow;
+    font-weight: 600;
+}
+.escrow-transform-color{
+    font-size: 16px;
+    font-family: Barlow;
+    color: black;
+}
+.i-color{
+    color: rgb(52, 70, 138);
+}
+
+.ro-margin-right-01{
+    display: flex;
+    justify-content: space-around;
+}
+
+@media screen and (max-width: 767px){
+    .ro-margin-right-01{ 
+        display: block;
+    }
+}
+.escrow-how-can-we-help{
+    font-family: barlow;
+    font-size: 16px;
+    color: black;
 }

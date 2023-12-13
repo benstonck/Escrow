@@ -12,7 +12,8 @@
     height: 302px;
     padding: 5px;
     /* background-color: #507D7B; */
-    background: linear-gradient(#507D7B,#58C0BB,#507D7B);
+    /* background: linear-gradient(#507D7B,#58C0BB,#507D7B); */
+    background-color: #44c1b8;
     transition: 1s;
 }
 .serv-bor-101:hover{
@@ -21,7 +22,9 @@
 .services-new{
     /* font-size: 15px; */
     /* color: white; */
-    color: #2b577c;
+    /* color: #2b577c; */
+    color: white;
+    text-transform: uppercase;
  }
 
  .i-color-service{
@@ -40,12 +43,13 @@
 .about-text-es-4{
     color: black;
     font-size: 20px; 
-    font-family: calibri;   
+    font-family: barlow;   
 }
 .escrow-heading-tag-1{
-    color: #2b577c;
+    color: #44c1b8;
     font-size: 20px; 
-    font-family: calibri;  
+    font-family: barlow;  
+    text-transform: uppercase;
 }
 .product-border-coeur-1{
     border: 1px solid black;
@@ -57,6 +61,7 @@
   }
   .escrow-font-size-service{
     font-size: 16px;
+    font-family: barlow;
   }
   
   .escrow-height-1211{
@@ -66,6 +71,18 @@
     color:  #58C0BB;
   }
   .calibri-font-new-1{
-    font-family: calibri;
+    font-family: barlow;
     font-size: 16px;
+  }
+  .escrow-hower{
+transition: 1s;
+  }
+  .escrow-hower:hover{
+    transform: scale(1.1);
+  }
+  .hover-escrow-h{
+transition: 1s;
+  }
+  .hover-escrow-h:hover{
+    transform: scale(1.1);
   }
