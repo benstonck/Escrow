@@ -6,7 +6,7 @@
 }
 
 .serv-bor-101{
-    border: 1px solid black;
+    /* border: 1px solid black; */
     border-radius: 16px;
     border-color: #004785;
     height: 302px;
@@ -53,7 +53,7 @@
 }
 .product-border-coeur-1{
     border: 1px solid black;
-    border-color: #004785;
+    /* border-color: #004785; */
     border-radius: 16px;
     font-family: calibri;
   
