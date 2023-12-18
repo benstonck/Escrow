@@ -757,19 +757,19 @@
     font-size: 20px;
 }
 .calibri-2{
-    font-family: Barlow;
+    /* font-family: arial; */
     font-size: 35px;
    
 }
 .calibri-s
 {
-    font-family: barlow;
+    /* font-family: barlow; */
     font-weight: 600;
     font-size: 20px;
     text-transform: uppercase;
 }
 .calibri-12{
-    font-family: barlow;
+    /* font-family: barlow; */
     font-size: 16px;
     
 }
@@ -778,12 +778,15 @@
     font-weight: 500;
 }
 .calibrif{
-    font-family: barlow;
+    /* font-family: barlow; */
     font-size: 20px;
 }
 
 .data-security{
-    font-family: barlow;
+    /* font-family: barlow; */
     font-size: 16px;
     color: black;
+}
+.ariel-font-css{
+    font-family: comfortaa;
 }

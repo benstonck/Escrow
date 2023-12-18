@@ -12,10 +12,10 @@
   
 }
 .about-img-111{
-    width: 400px;
-    height: 390px;
+    /* width: 400px;
+    height: 390px; */
     border: 10px solid #44c1b8;
-    margin-top: 30px;
+    margin-top: 15px;
     /* clip-path: circle();  */
     border-radius: 50%;
     transition: 1s;

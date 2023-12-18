@@ -43,12 +43,12 @@
 .about-text-es-4{
     color: black;
     font-size: 20px; 
-    font-family: barlow;   
+    /* font-family: barlow;    */
 }
 .escrow-heading-tag-1{
     color: #44c1b8;
     font-size: 20px; 
-    font-family: barlow;  
+    /* font-family: barlow;   */
     text-transform: uppercase;
 }
 .product-border-coeur-1{
@@ -61,17 +61,17 @@
   }
   .escrow-font-size-service{
     font-size: 16px;
-    font-family: barlow;
+    /* font-family: barlow; */
   }
   
   .escrow-height-1211{
-    height: 390px;
+    height: 430px;
   }
   .color-escrow{
     color:  #58C0BB;
   }
   .calibri-font-new-1{
-    font-family: barlow;
+    /* font-family: barlow; */
     font-size: 16px;
   }
   .escrow-hower{

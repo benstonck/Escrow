@@ -5,7 +5,7 @@
     /* color:  #004785; */
     color: #668080;
     transition: 3ms;
-    font-family: barlow;
+    font-family: comfortaa;
     font-size: 18px;
    
 
@@ -40,7 +40,7 @@
    }
 
    .calibri{
-    font-family: barlow;
+    /* font-family: arial; */
     font-size: 24px;
     text-transform: uppercase;
    
@@ -90,14 +90,14 @@
 
 .key-bor-1{
     border: 1px solid #004785 ;
-    padding: 9px;
+    padding: 7px;
    
     box-shadow: 3px 3px  #96BDE0; 
     border-radius: 10px;
 }
 .key-bor-2{
     border: 1px solid  #004785 ;
-    padding: 19px;
+    padding: 10px;
     box-shadow: 3px 3px  #96BDE0; 
     
     border-radius: 10px;
@@ -105,7 +105,7 @@
 .key-h-color-1{
     color: #44c1b8;
    
-    font-family: barlow;
+    /* font-family: barlow; */
     font-size: 20px;
     padding-top: 10px;
     text-transform: uppercase;
@@ -113,35 +113,36 @@
 }
 .key-h-color{
     color: #44c1b8;
-    font-family: barlow;
+    /* font-family: barlow; */
     font-size: 20px;
+    padding-top: 11px;
     text-transform: uppercase;
 
 }
 .list-item-escrow-new{
-    font-family: barlow;
+    /* font-family: barlow; */
     font-size: 16px;
 
 }
 .list-item-escrow-new-1{
-    font-family: barlow;
+    /* font-family: barlow; */
     font-size: 16px;
-    margin-bottom: 60px;
+    margin-bottom: 110px;
 }
 .about-text-es-1{
     color: black;
     font-size: 16px; 
-    font-family: barlow;   
+    /* font-family: arial;    */
 }
 .about-text-es-2{
     color: black;
     font-size: 16px; 
-    font-family: barlow;   
+    /* font-family: barlow;    */
 }
 .about-text-es-3{
     color: black;
     font-size: 16px; 
-    font-family: barlow; 
+    /* font-family: barlow;  */
 }
 .escrow-about-2{
     font-size: 20px;
@@ -152,7 +153,7 @@
 .key-h-color-2{
     color: #44c1b8;
    
-    font-family: barlow;
+    /* font-family: barlow; */
     font-size: 20px;
     padding-top: 5px;
 
@@ -160,11 +161,11 @@
 .about-text-es-hhhhh{
     color: black;
     font-size: 16px; 
-    font-family: barlow; 
+    /* font-family: barlow;  */
 }
 .about-img-1221{
     margin-top: 20px;
-    height: 624px;
+    height: 721px;
     border-radius: 20px;
     border: 2px solid #58C0BB;
     box-shadow: 3px 3px  #96BDE0;  
@@ -181,12 +182,12 @@
     /* color: #405c73; */
     color: #44C1B8;
     font-size: 20px;
-    font-family: barlow;
+    /* font-family: barlow; */
     font-weight: 600;
 }
 .escrow-transform-color{
     font-size: 16px;
-    font-family: Barlow;
+    /* font-family: Barlow; */
     color: black;
 }
 .i-color{
@@ -204,7 +205,7 @@
     }
 }
 .escrow-how-can-we-help{
-    font-family: barlow;
+    /* font-family: barlow; */
     font-size: 16px;
     color: black;
 }
