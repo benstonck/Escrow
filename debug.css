@@ -13,7 +13,7 @@
       background-color: #004785;
  } 
  .logo-navebar{
-     width: 230px;
+     width: 180px;
      height: 70px;
    padding-top: 5px;
  }
@@ -380,6 +380,8 @@
  }
  .un-list-2{
      color: black;
+     text-align: justify;
+     padding-top: 4px;
  }
  
  .key-bor-3{
@@ -784,9 +786,89 @@
 
 .data-security{
     /* font-family: barlow; */
-    font-size: 16px;
+    font-size: 10px;
     color: black;
 }
 .ariel-font-css{
     font-family: comfortaa;
+}
+.slider-font-size{
+    font-size: 16px;
+}
+.slider-font-heading-tag{
+    font-size: 25px;
+
+}
+.slider-font-heading-tag-1{
+    font-size: 20px;
+
+}
+.slider-p-font{
+    font-size: 18px;
+}
+.slider-p-font-1{
+    font-size: 14px;
+}
+.hr{
+    color: black;
+}
+.escrow-revenue-style{
+    padding: 50px;
+    margin-left: 10px;
+    color: white;
+    background-color:  #58C0BB;
+    opacity: 0.8;
+    /* filter: blur(10px); */
+}
+
+.escrow-revenue-style-font-style{
+   
+   opacity: 20;
+   color: white;
+}
+.{
+   
+    color: white;
+   
+    opacity: 0.8;
+}
+.escrow-revenue-style9912{
+    padding: 50px;
+    margin-left: 10px;
+    background-color:  #58C0BB;
+    opacity: 0.7;
+}
+.slider-p-font-102{
+    font-size: 16px;
+    text-align: justify;
+}
+.slider-p-font-1033{
+    font-size: 20px;
+    text-align: justify;
+}
+.escrow-health-password{
+   
+}
+.color-password-protection{
+    background-color:  #58C0BB;
+}
+.password-protection-color{
+    color: white;
+    font-size: 20px;
+}
+.password-protection-color-1{
+    color: white;
+    font-size: 16px;
+}
+.password-protection-color-i{
+    color: white;
+    
+}
+.how-can-we-help-border{
+    border: 1px solid black;
+    border-radius: 16px;
+
+}
+.data-security-background-img-blur{
+    opacity: 0.9;
 }

@@ -24,14 +24,14 @@
     transform: scale(1.1);
     
 }
-.about-img-113{
+/* .about-img-113{
    
     width: 1170px;
     border-radius: 20px;
    
    
    transition: 1s;
-}
+} */
 .about-img-113{
    
   
@@ -41,12 +41,12 @@
    
    transition: 1s;
 }
+.about-img-113:hover{
+    transform: scale(1.1);
+}
 
 .color-escrow{
     
     color: #0b8cf5;
   }
  
-.about-img-113:hover{
-    transform: scaleY(1.1);
-}

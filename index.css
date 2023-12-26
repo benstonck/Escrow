@@ -6,7 +6,7 @@
     color: #668080;
     transition: 3ms;
     font-family: comfortaa;
-    font-size: 18px;
+    font-size: 16px;
    
 
    }
@@ -42,7 +42,7 @@
    .calibri{
     /* font-family: arial; */
     font-size: 24px;
-    text-transform: uppercase;
+    
    
    
 }
@@ -56,6 +56,7 @@
 }
 .about-img-11{
     border-radius: 20px;
+    height: 450PX;
     border: 2px solid #58C0BB;
     /* box-shadow: 3px 3px 3px 3px #96BDE0;   */
    transition: 1s;
@@ -63,14 +64,16 @@
 .about-img-11:hover{
     transform: scale(1.1);
 }
-
+/* .about-img-11:hover{
+    transform: scale(1.1);
+} */
 .escrow-about{
     font-size: 20px;
-    /* color: #2b577c; */
+     /* color: #2b577c; */
     color: #44C1B8;
     font-weight: 600;
     text-transform: uppercase;
-}
+} 
 .about-top-img-1{
 
 }
@@ -127,11 +130,12 @@
 .list-item-escrow-new-1{
     /* font-family: barlow; */
     font-size: 16px;
-    margin-bottom: 110px;
+    margin-bottom: 40px;
 }
 .about-text-es-1{
     color: black;
     font-size: 16px; 
+    text-align: justify;
     /* font-family: arial;    */
 }
 .about-text-es-2{
@@ -142,6 +146,7 @@
 .about-text-es-3{
     color: black;
     font-size: 16px; 
+    text-align: justify;
     /* font-family: barlow;  */
 }
 .escrow-about-2{
@@ -149,6 +154,7 @@
     /* color: #2b577c; */
     color: #44C1B8;
     font-weight: 600;
+    text-align: justify;
 }
 .key-h-color-2{
     color: #44c1b8;
@@ -165,18 +171,17 @@
 }
 .about-img-1221{
     margin-top: 20px;
-    height: 721px;
+    /* height: 721px; */
     border-radius: 20px;
     border: 2px solid #58C0BB;
     box-shadow: 3px 3px  #96BDE0;  
-   transition: 1s;
+    transition: 1s;
 }
 .about-img-1221:hover{
+    
     transform: scale(1.1);
 }
-.about-img-11:hover{
-    transform: scale(1.1);
-}
+
 /* escrow transform */
 .escrow-transform{
     /* color: #405c73; */
@@ -208,4 +213,5 @@
     /* font-family: barlow; */
     font-size: 16px;
     color: black;
+    text-align: justify;
 }
