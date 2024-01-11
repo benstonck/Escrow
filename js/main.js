@@ -398,7 +398,7 @@ $(document).ready(function () {
         pagination: '.swiper-pagination',
         paginationClickable: true,
         loop: true,
-        autoplay: 5000,
+        autoplay: 6500,
         slidesPerView: 1,
         keyboardControl: true,
         preventClicks: false,
@@ -409,7 +409,7 @@ $(document).ready(function () {
     var swiperAutoFade = new Swiper('.swiper-auto-fade', {
         pagination: '.swiper-pagination',
         loop: true,
-        autoplay: 5000,
+        autoplay: 6500,
         slidesPerView: 1,
         paginationClickable: true,
         keyboardControl: true,
@@ -819,7 +819,7 @@ $(document).ready(function () {
                     nextButton: '.swiper-next-style2',
                     prevButton: '.swiper-prev-style2',
                     mousewheelControl: true,
-                    speed: 1000,
+                    speed: 5000,
                     keyboardControl: true,
                     breakpoints: {
                         1199: {
